@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Akansha",
+    "age": 19,
+    "gender": "Female"
+  },
+  {
+    "name": "Akshara",
+    "age": 22,
+    "gender": "Female"
+  },
+  {
+    "name": "Samyuktha",
+    "age": 22,
+    "gender": "Female"
+  },
+  {
+    "name": "Sahasra",
+    "age": 14,
+    "gender": "Female"
+  },
+  {
+    "name": "Sindhu",
+    "age": 19,
+    "gender": "Female"
+  },
+  {
+    "name": "Rahul",
+    "age": 22,
+    "gender": "Male"
+  },
+  {
+    "name": "Arjun",
+    "age": 30,
+    "gender": "Male"
+  },
+  {
+    "name": "Tanvi",
+    "age": 22,
+    "gender": "Female"
+  }
+]
